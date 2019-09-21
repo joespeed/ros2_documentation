@@ -13,6 +13,11 @@ As described in the :download:`charter <Governance/ros2-tsc-charter.pdf>`, the T
 
 The current members of the ROS 2 TSC are (14 as of 2019-09-20):
 
+.. |adlink| image:: https://cdn.adlinktech.com/webupd/en/upload/ADLINK_logo_Small_17011711570339461.png
+   :alt: ADLINK logo
+   :height: 35px
+   :target: https://www.adlinktech.com
+
 .. |amazon| image:: Governance/amazon.svg
    :alt: Amazon logo
    :height: 35px
@@ -87,6 +92,8 @@ The current members of the ROS 2 TSC are (14 as of 2019-09-20):
    :align: center
    :widths: auto
 
+   * - |adlink|
+     - ADLINK Technology: Joe Speed
    * - |amazon|
      - Amazon: Adam Duncan
    * - |apex|
